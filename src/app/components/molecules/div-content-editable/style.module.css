@@ -1,0 +1,11 @@
+.input {
+  padding: 0.5rem;
+  border: 0.25rem solid #e0e0e0;
+  border-radius: 0.25rem;
+  font-size: large;
+  margin-bottom: 1rem;
+}
+
+.view {
+  font-size: xx-large;
+}

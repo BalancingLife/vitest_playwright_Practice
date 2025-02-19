@@ -1,5 +1,8 @@
-import styles from "./page.module.css";
-
-export default function inputText() {
-  return <div>Input Text</div>;
+import { Form } from "../../components/organisms/form";
+export default function InputText() {
+  return (
+    <div>
+      <Form />
+    </div>
+  );
 }
