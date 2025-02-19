@@ -7,7 +7,7 @@ interface Props {
   className?: string;
 }
 
-export const Form = (props: Props) => {
+export const FormText = (props: Props) => {
   return (
     <form className={`${styles.form} ${props.className}`}>
       <InputTextLabeled />

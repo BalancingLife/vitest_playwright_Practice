@@ -1,10 +1,10 @@
 import styles from './page.module.css'
-import { Form } from "../../components/organisms/form";
+import { FormText } from "../../components/organisms/form-text";
 
 export default function InputText() {
   return (
     <div className={styles.div}>
-      <Form />
+      <FormText />
     </div>
   );
 }
